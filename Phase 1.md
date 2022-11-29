@@ -4,5 +4,5 @@
 
 ## Day 4/5
 # Fetch using json-server (dogs and cats)
-
+[Using Fetch with DB](https://github.com/jeryelblanco/catsanddogs)
 # Fetch using api (pokemon images)
