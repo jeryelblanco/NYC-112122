@@ -24,3 +24,4 @@
 ## Ramen Rater
 [Branch charlie-solution](https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater/tree/charlie-solution)
 (includes Delete Ramen functionality)
+[Jeryel's Solution](https://github.com/jeryelblanco/ramen-rater)
