@@ -1,9 +1,16 @@
 # Day 1
 ## Array of Objects
 [Array of Objects](https://github.com/jeryelblanco/arrayofobj)
+## DOM Manipulcation
+[Manipultating the DOM and Creating Objects](https://github.com/jeryelblanco/DOM-AND-OBJECTS)
 # Day 2
 ## Debugging Exercise
 [Debug Assignment](https://github.com/jeryelblanco/Debug-Exercise)
+## DOM Events
+[DOM Events](https://github.com/jeryelblanco/DOM-EVENTS)
+# Day 3
+## Task Lister Solution
+[Task Lister Mini Project](https://github.com/jeryelblanco/Task-Lister-Solution)
 # Day 4/5
 ## Fetch using json-server (dogs and cats)
 [Using Fetch with DB](https://github.com/jeryelblanco/catsanddogs)
