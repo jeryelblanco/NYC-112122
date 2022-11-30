@@ -1,6 +1,8 @@
 # Day 1
 ## Array of Objects
 [Array of Objects](https://github.com/jeryelblanco/arrayofobj)
+## DOM Manipulcation
+
 # Day 2
 ## Debugging Exercise
 [Debug Assignment](https://github.com/jeryelblanco/Debug-Exercise)
