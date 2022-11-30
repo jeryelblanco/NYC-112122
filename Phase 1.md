@@ -6,6 +6,8 @@
 # Day 2
 ## Debugging Exercise
 [Debug Assignment](https://github.com/jeryelblanco/Debug-Exercise)
+## DOM Events
+
 # Day 3
 ## Task Lister Solution
 [Task Lister Mini Project](https://github.com/jeryelblanco/Task-Lister-Solution)
