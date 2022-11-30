@@ -2,7 +2,7 @@
 ## Array of Objects
 [Array of Objects](https://github.com/jeryelblanco/arrayofobj)
 ## DOM Manipulcation
-
+[Manipultating the DOM and Creating Objects](https://github.com/jeryelblanco/DOM-AND-OBJECTS)
 # Day 2
 ## Debugging Exercise
 [Debug Assignment](https://github.com/jeryelblanco/Debug-Exercise)
