@@ -9,5 +9,6 @@
 [Using Fetch with API](https://github.com/jeryelblanco/fetch-using-api)
 
 # Day 5
-# Toy Tale Solution
-[Branch charlie-solution, currently up to and including Add a New Toy](https://github.com/learn-co-curriculum/phase-1-practice-toy-tale/tree/charlie-solution)
+## Toy Tale
+[Branch charlie-solution](https://github.com/learn-co-curriculum/phase-1-practice-toy-tale/tree/charlie-solution)
+(currently up to and including Add a New Toy - as of Wed Nov 30)
