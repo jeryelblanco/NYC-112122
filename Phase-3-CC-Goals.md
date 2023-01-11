@@ -7,7 +7,7 @@
 ## Object Relationship Methods
 - You should be able to use Active Record macros to set up the associations between database tables (e.g. has_one, has_many)
 
-- You should understand how each Active Record association sets up tables with primary and foreign keys under the hood
+- You should understand how each Active Record association connects your tables with foreign keys under the hood
 
 - You should also understand how, under the hood, Active Record generates methods that allow your classes to access each other's information
 ## Custom Methods
