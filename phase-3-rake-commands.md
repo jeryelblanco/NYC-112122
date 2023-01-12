@@ -35,6 +35,7 @@ made by chett!
 
 ```pry> Student.find(2)``` 
 --> returns the second greg since he has an id of 2
+
 ```pry> Student.find_by(name: "greg")``` --> returns only the first greg
 
 ```pry> Student.where(name: "greg")``` 
