@@ -10,3 +10,5 @@
 [FormsandEvents+ Lists&Keys](https://github.com/jeryelblanco/formsandevents)
 
 [React useEffect Lab](https://github.com/learn-co-curriculum/react-hooks-use-effect-lab/blob/solution/src/components/Question.js) — December 16
+
+[plantsy mock code challenge]
