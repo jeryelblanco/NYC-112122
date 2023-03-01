@@ -23,7 +23,7 @@
 
 [jeryel-solution](https://github.com/jeryelblanco/phase-1-practice-toy-tale/tree/jeryel)
 
-([Deliverables.pdf](https://github.com/jeryelblanco/NYC-112122/files/10866322/Deliverables.pdf)
+[Deliverables.pdf](https://github.com/jeryelblanco/NYC-112122/files/10866322/Deliverables.pdf)
 
 
 # Day 6
