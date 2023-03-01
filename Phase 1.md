@@ -20,10 +20,10 @@
 ## Toy Tale
 [Branch charlie-solution](https://github.com/learn-co-curriculum/phase-1-practice-toy-tale/tree/charlie-solution)
 (currently up to and including Add a New Toy - as of Wed Nov 30)
+
 [jeryel-solution](https://github.com/jeryelblanco/phase-1-practice-toy-tale/tree/jeryel)
 # Day 6
 ## Ramen Rater
 [Branch charlie-solution](https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater/tree/charlie-solution)
 (includes Delete Ramen functionality)
 
-- [Jeryel's Solution](https://github.com/jeryelblanco/ramen-rater)
